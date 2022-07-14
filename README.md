@@ -1,5 +1,5 @@
-# ECE546-VLSI-Systems-Design-Project
-Notes for NCSU ECE546 project: 128 bit (32x4) Synchronous SRAM
+# 128 bit (32x4) Synchronous SRAM Design
+Notes for NCSU ECE546 VLSI Systems Design project: 128 bit (32x4) Synchronous SRAM
 
 ## Inputs
 A<4:0> – address
