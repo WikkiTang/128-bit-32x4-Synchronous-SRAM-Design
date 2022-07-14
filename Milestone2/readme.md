@@ -18,3 +18,4 @@ Notice: use inout pin
 # Tri Buffer
 For switching write and read
 ![image](https://user-images.githubusercontent.com/108848834/179024870-f55a6dc1-5d5e-423c-8858-fe63b32fdae3.png)
+ 
