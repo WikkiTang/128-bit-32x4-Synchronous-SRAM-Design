@@ -1,4 +1,6 @@
-# Decoders: 
+# Rough floorplan
+![image](https://user-images.githubusercontent.com/108848834/179022548-b45e4ef7-60dd-471b-805f-133e42e59811.png)
+# Decoders
 ## Row decoder 
 Traditional Decoder (5 bits row address and 32x4 SRAM)
 ![image](https://user-images.githubusercontent.com/108848834/179021743-9a0bd881-14c0-45c9-b3a3-a269baf1aba3.png)
@@ -12,6 +14,4 @@ Some topologies of SRAM.
 ![image](https://user-images.githubusercontent.com/108848834/179022170-5f3ce67d-a30f-49c9-9aeb-50b23a203742.png)
 # Bitline conditioning
 ![image](https://user-images.githubusercontent.com/108848834/179022331-4e75ee95-df18-4676-af8e-0b353bcbfa52.png)
-# Rough floorplan
-![image](https://user-images.githubusercontent.com/108848834/179022548-b45e4ef7-60dd-471b-805f-133e42e59811.png)
 
