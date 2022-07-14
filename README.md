@@ -1,6 +1,7 @@
 # 128 bit (32x4) Synchronous SRAM Design
 Record of VLSI Systems Design project, hided some technical details
 
+Use FreePDK3 Design Kit (https://news.ncsu.edu/2021/08/freepdk3-design-kit/) and Synopsys Custom Compiler Environment
 
 ## Inputs
 A<4:0> – address
