@@ -20,5 +20,5 @@ The result here is not include parasitic parameters of tri_buffer and bitcell. I
 ![image](https://user-images.githubusercontent.com/108848834/179027247-8875a381-9a44-4ef5-ae20-01aae4115558.png)
 # Tri Buffer Layout
 ![image](https://user-images.githubusercontent.com/108848834/179027344-843849d1-8d64-448f-9b95-fb971d9eca9e.png)
-
+ 
 
