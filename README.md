@@ -1,5 +1,6 @@
 # 128 bit (32x4) Synchronous SRAM Design
-Record of VLSI Systems Design project
+Record of VLSI Systems Design project, hided some technical details
+
 
 ## Inputs
 A<4:0> – address
